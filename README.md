@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing crazy stuff with programming , building up stunning things and creative writing.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on nothing for now.
-- 📫 How to reach me...
+- 📫 How to reach me: itismubashiratcode@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Hello World !
 
