@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me: itismubashiratcode@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he,him,his.
 - ⚡ Fun fact: Hello World !
 
 <!---
